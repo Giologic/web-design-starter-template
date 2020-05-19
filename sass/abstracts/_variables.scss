@@ -1,0 +1,33 @@
+// Colors
+$color-primary: #49ACE1;
+$color-primary-light: #36D1DC;
+$color-primary-dark: #5B86E5;
+
+$color-grey-light-1: #f7f7f7;
+$color-grey-light-2: #eee;
+
+$color-grey-dark-1: #777;
+$color-grey-dark-2: #999;
+$color-grey-dark-3: #333;
+
+$color-white: #fff;
+$color-black: #000;
+
+$shadow-extra-light: rgba($color-black, 0.1);
+$shadow-light: rgba($color-black, 0.15);
+$shadow-medium: rgba($color-black, 0.2);
+$shadow-heavy: rgba($color-black, 0.4);
+$shadow-extra-heavy: rgba($color-black, 0.8);
+
+// Font
+$default-font-size: 1.6rem;
+
+// Grid
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-vertical-small: 6rem;
+$gutter-horizontal: 6rem;
+
+// Border Radius
+$button-border-radius: 10rem;
+$box-border-radius: 3px;

@@ -1,0 +1,40 @@
+// 7-1 Sass Architecture
+
+// Abstracts
+@import "abstracts/functions"; 
+@import "abstracts/helpers";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+// Vendors
+@import "vendors/bootstrap";
+@import "vendors/jquery_ui";
+
+// Base
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+// Components
+@import "components/buttons";
+@import "components/card";
+@import "components/cover";
+
+// Layout
+@import "layout/container";
+@import "layout/footer";
+@import "layout/forms";
+@import "layout/grid";
+@import "layout/header";
+@import "layout/navigation";
+@import "layout/sidebar";
+
+// Pages
+@import "pages/contact";
+@import "pages/home";
+
+// Themes
+@import "themes/admin";
+@import "themes/theme";
+
