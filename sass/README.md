@@ -50,3 +50,7 @@ sass/
 |
 `– main.scss             # Main Sass file
 ```
+
+### References:
+- [Rveitch's gist](https://gist.github.com/rveitch/84cea9650092119527bc) - [Rveitch](https://gist.github.com/rveitch)
+- [7-1 Sass Architecture - Learn How to Program](https://www.learnhowtoprogram.com/user-interfaces/building-layouts-preprocessors/7-1-sass-architecture)
